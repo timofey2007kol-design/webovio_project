@@ -1,0 +1,80 @@
+body{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.block1{
+    padding-top: 34px;
+    padding-left: 148px;
+    width: 1280px;
+    height: 777px;
+    background-image: url(/img/Block1/Background_block1.jpg);
+    background-repeat: no-repeat;
+}
+
+.Head__HotBar{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin-bottom: 107px;
+}
+
+.Head__HotBar__MenuButton{
+    margin-left: 816px;
+    margin-top: 3px;
+    width: 40px;
+    height: 40px;
+}
+
+.block1_head1{
+    width: 96.6px;
+    height: 21px;
+    color: #FFFFFF;
+    font-size: 14px;
+    margin: 0px;
+    margin-left: 12px;
+}
+.block1_head2{
+    width: 595.05px;
+    height: 217.89px;
+    color: #FFFFFF;
+    line-height: 74px;
+    font-size: 60px;
+    margin-bottom: 24px;
+    margin-top: 0px;
+    margin-left: 12px;
+}
+.block1_text{
+    width: 561.24px;
+    height: 53.98px;
+    color: #FFFFFF;
+    margin-bottom: 47px;
+    margin-top: 0px;
+    line-height: 26px;
+    font-size: 16px;
+    margin-left: 12px;
+}
+.block1_link{
+    width:114px;
+    height: 24px;
+    margin-left: 12px;
+}
+
+.block3{
+    width: 1111px;
+    height: 292px;
+    color: #FAFAFA;
+    padding: 70px 0px 0px 164px;
+}
+.block3_text{
+    height: 148px;
+    width: 822px;
+    color:#4D533C;
+    font-size: 60px;
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+.block3_link{
+    width:162px;
+    height:24px;
+}
